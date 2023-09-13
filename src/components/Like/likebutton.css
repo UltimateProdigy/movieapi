@@ -1,0 +1,29 @@
+.likebtn {
+    width: 28px;
+    height: 28px;
+    border-radius: 10px;
+    text-align: center;
+    cursor: pointer;
+    background-color: #fff;
+    backdrop-filter: blur(5.925926208496094px);
+    position: relative;
+    top: 50px;
+    left: 170px;
+  }
+  .filled {
+    display: none;
+    width: 12px;
+    margin-left: 8px;
+    padding-top: 8px;
+  }
+  .unfilled {
+    margin-left: 8px;
+    padding-top: 8px;
+    width: 12px;
+  }
+
+  @media (max-width: 700px) {
+    .unfilled {padding-bottom: 10px;}
+    .likebtn {left: 200px;}
+  }
+  

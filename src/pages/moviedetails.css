@@ -1,0 +1,59 @@
+.trailer {
+  width: 1198px;
+  height: 449px;
+  border-radius: 20px;
+  background-color: black;
+  margin-left: 270px;
+}
+.play {
+  width: 110px;
+  height: 110px;
+  background-color: rgb(204, 204, 204);
+  backdrop-filter: blur(2px);
+  border-radius: 60px;
+  margin-left: 500px;
+}
+.moviedetailstitle {
+  color: #404040;
+  font-family: Poppins;
+  font-size: 23px;
+  font-style: normal;
+  font-weight: bolder;
+  line-height: normal;
+  margin-left: 100px;
+  margin-top: 40px;
+}
+.movietitle {
+  color: black;
+  font-family: Poppins;
+  font-size: 33px;
+  font-style: normal;
+  font-weight: bolder;
+  line-height: normal;
+  margin-left: 100px;
+  margin-top: 40px;
+}
+.titlediv {
+    margin-right: 250px;
+}
+.overview {
+  color: black;
+  font-family: Poppins;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: bolder;
+  line-height: normal;
+  margin-left: 270px;
+  margin-top: 30px;
+}
+.image {
+  margin-left: 272px;
+  border-radius: 30px;
+  position: relative;
+  padding-top: 50px;
+}
+
+@media (max-width: 1070px) {
+  .totalnav {margin-left: 20px;}
+  .play {margin-left: 20px;}
+}
