@@ -1,3 +1,4 @@
+## MOVIE-API
 I'm pleased to share that I've successfully completed the HNG Stage 2 task, delivering a web application that, while responsive to a certain extent, offers an engaging user experience. This application harnesses the power of Axios to interact with the TMDB database, allowing me to fetch and display a wealth of movie data, including crucial details like titles, runtimes, and other relevant information, as specified in the task requirements.
 
 It's worth noting that while the website is not fully responsive, it does provide a level of responsiveness that ensures accessibility across a range of devices and screen sizes. This is an area I plan to further refine in future iterations to deliver an even more polished and versatile user experience.
